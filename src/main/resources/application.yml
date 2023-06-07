@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: trancaapi
+
+server:
+  port: 8080
+
+
+
